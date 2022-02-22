@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Omar a passionate web developer keen to learn new things and spending a lot of time on coding.... 
+I'm Omar a passionate web developer keen to learn new things and spending a lot of time in coding.... 
 
 - 🔭 I’m currently working on Web Development.
 - 🌱 I’m currently learning Next-JS.
